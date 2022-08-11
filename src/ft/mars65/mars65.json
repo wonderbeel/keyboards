@@ -2,7 +2,7 @@
   "name": "Mars 6.5",
   "vendorId": "0x20A0",
   "productId": "0x422F",
-  "lighting": "none",
+  "lighting": "qmk_backlight_rgblight",
   "matrix": {
     "rows": 5,
     "cols": 16
